@@ -13,7 +13,7 @@ To run this project, make sure you have Node.js, npm, and MongoDB installed on y
 
 1. Clone the repository:
 Copy code
-git clone https://github.com/your-username/MERNstackBasicProject.git
+git clone https://github.com/arafrao123/MERNstackBasicProject.git
 2. Install dependencies for both the backend and frontend:
 cd MERNstackBasicProject
 npm install
